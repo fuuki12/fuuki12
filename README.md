@@ -1,16 +1,19 @@
-### Hi there 👋
+### Maple Profile 🍁
+I am a frontend engineer specializing in Typescript and React. I enjoy thinking deeply about architecture.
 
-<!--
-**fuuki12/fuuki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Used Languages
 
-Here are some ideas to get you started:
+<p align="left">
+ <a href="https://ja.nuxtjs.org/"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss&layout=compact&bg_color=DEG,ffb3ba,ffdfba&title_color=fc85ae" width="500px;" target="_blank" /> 
+ </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Expertise 
+
+- Front end development with **TypeScript**, **React**.
+- Frontend architecture, particularly for web applications.
+
+## 🌱 What I'm currently learning 
+
+I'm currently deepening my understanding of efficient and scalable architecture designs.
