@@ -1,8 +1,10 @@
 name: update readme schedule
-on:
+on: [ push ]
   schedule:
     - cron: "0 0 * * MON"
   workflow_dispatch:
+
+permissions: read-all|write-all
 
 jobs:
   readme:
@@ -12,7 +14,6 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           python-version: "3.9"
       - name: Install dependencies
         run: |
