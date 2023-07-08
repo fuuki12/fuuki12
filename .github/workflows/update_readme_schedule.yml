@@ -5,10 +5,9 @@ on:
     - cron: "0 0 * * MON"
   workflow_dispatch:
 
-permissions: read-all|write-all
-
 jobs:
   readme:
+    permissions: read-all|write-all
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
