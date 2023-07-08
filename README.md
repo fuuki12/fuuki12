@@ -5,7 +5,7 @@ I am a frontend engineer specializing in Typescript and React. I enjoy thinking 
 
 <p align="left">
  <a href="https://ja.nuxtjs.org/"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss&layout=compact&bg_color=DEG,ffb3ba,ffdfba&title_color=fc85ae" width="500px;" target="_blank" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuki12&layout=compact&bg_color=DEG,ffb3ba,ffdfba&title_color=fc85ae" width="500px;" target="_blank" /> 
  </a>
 </p>
 
