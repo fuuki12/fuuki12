@@ -5,9 +5,9 @@ I am a frontend engineer specializing in Typescript and React. I enjoy thinking 
 ## Used Languages
 
 <p align="left">
-    <a href="https://github.com/fuuki12" target="_blank">
+   <a href="https://github.com/fuuki12" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuki12&layout=compact&bg_color=DEG,ffb3ba,ffdfba&title_color=fc85ae" width="500px;" target="_blank" />
-    </a>
+   </a>
 </p>
 
 ## 🔭 My Expertise
@@ -19,7 +19,7 @@ I am a frontend engineer specializing in Typescript and React. I enjoy thinking 
 
 I'm currently deepening my understanding of efficient and scalable architecture designs.
 
-## ✨ My Zenn Article
+## ✨ I'm Zenn Article
 
 - [Rust の async/await と TypeScript の async/await って実は別物？](/maple_siro/articles/e3d5fe66fec4dc)
 - [今更だけど、フロントエンドの単体テストの考え方](/maple_siro/articles/c0988e361b73c7)
