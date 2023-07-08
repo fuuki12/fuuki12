@@ -19,7 +19,7 @@ I am a frontend engineer specializing in Typescript and React. I enjoy thinking 
 
 I'm currently deepening my understanding of efficient and scalable architecture designs.
 
-## ✨ My Zenn Article
+## 🎾 My Zenn Article
 
 - [Rust の async/await と TypeScript の async/await って実は別物？](/maple_siro/articles/e3d5fe66fec4dc)
 - [今更だけど、フロントエンドの単体テストの考え方](/maple_siro/articles/c0988e361b73c7)

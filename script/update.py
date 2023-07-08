@@ -49,7 +49,7 @@ I am a frontend engineer specializing in Typescript and React. I enjoy thinking 
 
 I'm currently deepening my understanding of efficient and scalable architecture designs.
 
-## ✨ My Zenn Article
+## 🎾 My Zenn Article
 
 {zennArticle}
     '''.strip().format(zennArticle=resultList)
