@@ -21,6 +21,7 @@ jobs:
         working-directory: scripts
         run: |
           python update.py
+          mv README.md ./../README.md
       - name: commit
         run: |
           git config --global user.name "${{ github.actor }}"
