@@ -5,29 +5,27 @@ GENERATE_FILE_NAME = 'README.md'
 url = "https://zenn.dev/api/articles?username=maple_siro&order=latest"
 
 
-def get_data_from_api(url):
+def fetch_data_from_api(url):
     try:
-        res = requests.get(url)
-        res.raise_for_status()  # Check if request was successful
-        return res.json()       # Convert to JSON
-    except (requests.RequestException, ValueError):
-        print("Error while getting data from API")
+        response = requests.get(url)
+        response.raise_for_status()  # Check if request was successful
+        return response.json()       # Convert to JSON
+    except (requests.RequestException, ValueError) as err:
+        print(f"Error while getting data from API - {err}")
         return None
 
 
-def write_to_file(file_name, content):
-    with open(file_name, 'w', encoding='utf-8') as f:
-        f.write(content)
+def prepare_content(jsonData):
+    # Guard clause instead of wrapping whole code in a condition
+    if jsonData is None:
+        return
 
+    articles_list = [f"- [{article['title']}]({'https://zenn.dev/' + article['path']})"
+                     for article in jsonData["articles"][:5]]
 
-jsonData = get_data_from_api(url)
+    formatted_articles_list = '\n'.join(articles_list)
 
-if jsonData is not None:
-    resultList = ["- [{}]({})".format(item['title'], item['path'])
-                  for item in jsonData["articles"][:5]]
-    resultList = '\n'.join(resultList)
-
-    docs_str = '''
+    return '''
 ### Maple Profile 🍁
 
 I am a frontend engineer specializing in Typescript and React. I enjoy thinking deeply about architecture.
@@ -52,6 +50,16 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 ## 🎾 My Zenn Article
 
 {zennArticle}
-    '''.strip().format(zennArticle=resultList)
+    '''.strip().format(zennArticle=formatted_articles_list)
 
-    write_to_file(GENERATE_FILE_NAME, docs_str)
+
+def write_to_file(file_name, content):
+    with open(file_name, 'w', encoding='utf-8') as file:
+        file.write(content)
+
+
+jsonData = fetch_data_from_api(url)
+content = prepare_content(jsonData)
+
+if content:
+    write_to_file(GENERATE_FILE_NAME, content)
