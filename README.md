@@ -21,6 +21,7 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 
 ## 🎾 My Zenn Article
 
+- [GitHub ActionsでREADME.mdのZenn記事一覧を自動更新したい](https://zenn.dev//maple_siro/articles/295d0405f6940a)
 - [Rustのasync/awaitとTypeScriptのasync/awaitって実は別物？](https://zenn.dev//maple_siro/articles/e3d5fe66fec4dc)
 - [今更だけど、フロントエンドの単体テストの考え方](https://zenn.dev//maple_siro/articles/c0988e361b73c7)
 - [TypeScript + React + ChatGPTで誤字脱字チェックやってみた](https://zenn.dev//maple_siro/articles/6ff68f63766b72)
