@@ -21,8 +21,8 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 
 ## 🎾 My Zenn Article
 
+- [FEチームでReactのリアーキテクチャを行おうとしています！](https://zenn.dev//team_soda/articles/19f8c5619961fa)
+- [月に2記事テックブログを書きます。](https://zenn.dev//team_soda/articles/6d57f3715544d0)
+- [Svelteの展望とUIライブラリの作成【Svelte】【UIライブラリ】](https://zenn.dev//maple_siro/articles/8c00e1d4ae973f)
 - [React使いが、SolidJS -> solid-start使ってみた感想【SolidJS】【React】](https://zenn.dev//maple_siro/articles/f186909c89de95)
 - [ゼロランタイムCSSとランタイムCSSって実際どのくらいパフォーマンスに差があるのか[styled-component][Tailwind]](https://zenn.dev//maple_siro/articles/fd29bb6a051971)
-- [GitHub ActionsでREADME.mdのZenn記事一覧を自動更新したい](https://zenn.dev//maple_siro/articles/295d0405f6940a)
-- [Rustのasync/awaitとTypeScriptのasync/awaitって実は別物？](https://zenn.dev//maple_siro/articles/e3d5fe66fec4dc)
-- [今更だけど、フロントエンドの単体テストの考え方](https://zenn.dev//maple_siro/articles/c0988e361b73c7)
