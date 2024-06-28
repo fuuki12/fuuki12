@@ -21,8 +21,8 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 
 ## 🎾 My Zenn Article
 
+- [TypeScriptの型をおさらいしよう！](https://zenn.dev//team_soda/articles/2e335301cae8d7)
+- [Next.jsに最適なCSSライブラリの選び方[Tailwind CSS, Sass]](https://zenn.dev//team_soda/articles/6c2c4a7ed0f7e7)
 - [FEチームでReactのリアーキテクチャを行おうとしています！](https://zenn.dev//team_soda/articles/19f8c5619961fa)
 - [月に2記事テックブログを書きます。](https://zenn.dev//team_soda/articles/6d57f3715544d0)
 - [Svelteの展望とUIライブラリの作成【Svelte】【UIライブラリ】](https://zenn.dev//maple_siro/articles/8c00e1d4ae973f)
-- [React使いが、SolidJS -> solid-start使ってみた感想【SolidJS】【React】](https://zenn.dev//maple_siro/articles/f186909c89de95)
-- [ゼロランタイムCSSとランタイムCSSって実際どのくらいパフォーマンスに差があるのか[styled-component][Tailwind]](https://zenn.dev//maple_siro/articles/fd29bb6a051971)
