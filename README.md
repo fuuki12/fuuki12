@@ -22,7 +22,7 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 ## 🎾 My Zenn Article
 
 - [TypeScriptの型をおさらいしよう！](https://zenn.dev//team_soda/articles/2e335301cae8d7)
-- [Next.jsに最適なcssライブラリの選び方[Tailwind css, Sass]](https://zenn.dev//team_soda/articles/6c2c4a7ed0f7e7)
+- [Next.jsに最適なcssライブラリの選び方[Tailwind css, Scss]](https://zenn.dev//team_soda/articles/6c2c4a7ed0f7e7)
 - [FEチームでReactのリアーキテクチャを行おうとしています！](https://zenn.dev//team_soda/articles/19f8c5619961fa)
 - [月に2記事テックブログを書きます。](https://zenn.dev//team_soda/articles/6d57f3715544d0)
 - [Svelteの展望とUIライブラリの作成【Svelte】【UIライブラリ】](https://zenn.dev//maple_siro/articles/8c00e1d4ae973f)
