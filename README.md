@@ -22,7 +22,7 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 ## 🎾 My Zenn Article
 
 - [TypeScriptで関数型プログラミングを行ってみた [fp-ts]](https://zenn.dev//team_soda/articles/f4e20631af1df0)
-- [Gitの活用できていない機能はない？](https://zenn.dev//maple_siro/articles/98d3c114832668)
+- [Gitの活用できていない機能はない？](https://zenn.dev//team_soda/articles/98d3c114832668)
 - [TypeScript意外と忘れがちな機能](https://zenn.dev//team_soda/articles/6433c26c4b3bad)
 - [サクッとVercelにNext.jsで作成したサービスをデプロイ[Next.js][Vercel]](https://zenn.dev//team_soda/articles/6a69f2c5a854af)
 - [SolidJSでサクッと作るGithubPagesサイト](https://zenn.dev//team_soda/articles/d8d6c637923cd4)
