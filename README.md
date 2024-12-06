@@ -21,8 +21,8 @@ I'm currently deepening my understanding of efficient and scalable architecture 
 
 ## 🎾 My Zenn Article
 
+- [Result型使ってますか？](https://zenn.dev//team_soda/articles/6cf382b59a4651)
 - [Vueからの移行に最適な選択肢 [React][Svelte]](https://zenn.dev//team_soda/articles/6f4ad74e168231)
 - [React, Vue.js, Svelte比較してみよう](https://zenn.dev//team_soda/articles/e4cd42857704a4)
 - [Go言語におけるコードの複雑性：マップを用いた三項演算子風の書き方は許容されるべきか？](https://zenn.dev//team_soda/articles/848e4856a02f9d)
 - [半年間続けた月2回のテックブログ執筆](https://zenn.dev//team_soda/articles/45dd47de4a2f25)
-- [TypeScriptで関数型プログラミングを行ってみた [fp-ts]](https://zenn.dev//team_soda/articles/f4e20631af1df0)
